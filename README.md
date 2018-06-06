@@ -1,5 +1,23 @@
 # start flutter
 
+#### ui
+##### 对齐 widgets
+* MainAxisAlignment 和CrossAxisAlignment 类提供了很多控制对齐的常量.
+
+##### 调整 widget
+* Expanded widget具有一个flex属性，它是一个整数，用于确定widget的弹性系数,默认弹性系数是1。
+
+##### 聚集 widgets
+*   mainAxisSize: MainAxisSize.min
+
+#### 常用布局widgets
+* Container
+* GridView
+* ListView
+* Stack
+* Card
+* ListTile
+
 ## second day
 
 #### widget基础

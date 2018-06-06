@@ -5,7 +5,7 @@ import 'package:flutter_app/ui/MyApp.dart';
 
 void main() {
   //开启debug调试
-  debugPaintSizeEnabled=true;
+ // debugPaintSizeEnabled=true;
   runApp(new MaterialApp(
     title: "Flutter App",
     home: new MyApp(),
